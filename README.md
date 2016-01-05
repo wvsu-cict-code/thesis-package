@@ -35,4 +35,4 @@ A common naming scheme should also be observed. Directory names are **lowercased
 #### Submission
 Your thesis source code root folder should be compressed (zip, rar, targ.gz, etc) and saved on a CD or DVD disc which is enclosed in a **keep case** for submission.
 
-![case](case.svg "case")
+![case](case.png "case")
