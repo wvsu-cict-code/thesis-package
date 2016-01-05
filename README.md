@@ -33,6 +33,8 @@ A common naming scheme should also be observed. Directory names are **lowercased
 | DISCLAIMER.md | Includes the disclaimer documentation of your thesis software. |
 
 #### Submission
-Your thesis source code root folder should be compressed (zip, rar, targ.gz, etc) and saved on a CD or DVD disc which is enclosed in a **keep case** for submission.
+* Your thesis source code root folder should be compressed (zip, rar, tar.gz, etc)
+* It should be saved on a CD or DVD disc which is enclosed in a **keep case** for submission.
+* The keep case and disc cover design should include the logo of the University and Institute.
 
 ![case](case.png "case")
