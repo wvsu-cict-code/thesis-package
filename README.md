@@ -1,3 +1,4 @@
+![header](header.png "header")
 # Thesis Software Package Guide
 WVSU Institute of Information and Communications Technology guidelines for thesis software packaging.
 
