@@ -28,14 +28,14 @@ A common naming scheme should also be observed. Directory names are **lowercased
 | src | Contains code to build your thesis software. Includes the frontend and backend(if exists) components. |
 | lib | Contains the third-party libraries used by your thesis software. |
 | config | This is not required but it can contain custom configuration files needed by your software to work (```*.cfg```, ```*.sql```, etc). |
-| dist |Packaged release build of your thesis software ready for deployment (installers/deployment files). |
-| doc | Software documentation of any kind can include your thesis software manual. |
+| dist |Packaged release build of your thesis software ready for deployment (installers/deployment files). **Take note that the thesis software installer/package should work**. |
+| doc | **Include a PDF copy of your thesis software documentation** (ready to publish copy) and thesis software manual. |
 | README.md | Contains information about the other files in your source code directory. It can also contain essential instructions on how to use or deploy your software. Please see this [example template](https://gist.github.com/jxson/1784669) as your guide|
 | DISCLAIMER.md | Includes the disclaimer documentation of your thesis software. |
 
 #### Submission
-* Your thesis source code root folder should be compressed (zip, rar, tar.gz, etc)
+* Your thesis source code root folder **should be compressed** (zip, rar, tar.gz, etc).
 * It should be saved on a CD or DVD disc which is enclosed in a **keep case** for submission.
-* The keep case and disc cover design should include the logo of the University and Institute.
+* The keep case and disc cover design **should include the logo of the University and Institute** as well as the title of your study.
 
 ![case](case.png "case")
