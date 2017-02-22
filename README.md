@@ -1,6 +1,5 @@
-![header](header.png "header")
 # Thesis Software Package Guide
-WVSU Institute of Information and Communications Technology guidelines for thesis software packaging.
+WVSU College of Information and Communications Technology guidelines for thesis software packaging.
 
 ***
 
@@ -36,6 +35,6 @@ A common naming scheme should also be observed. Directory names are **lowercased
 #### Submission
 * Your thesis source code root folder **should be compressed** (zip, rar, tar.gz, etc).
 * It should be saved on a CD or DVD disc which is enclosed in a **keep case** for submission.
-* The keep case and disc cover design **should include the logo of the University and Institute** as well as the title of your study.
+* The keep case and disc cover design **should include the logo of the University and College** as well as the title of your study.
 
 ![case](case.png "case")
