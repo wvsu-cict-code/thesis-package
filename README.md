@@ -50,4 +50,16 @@ A common naming scheme should also be observed. Directory names are **lowercased
 ![case](case.png "case")
 
 * For the complete submission flow, see the guide below:
-![flow](flow.jpg "flow")
+```mermaid
+graph TD
+A[START] -->|Get Software Approval Form| B[Fill up Approval Form]
+B -->|Get Package Template| C[Modify Package Template]
+C --> D[Submit Requirements for completeness and functionality checking:<br /><ul><li>Approval Form</li><li>Draft User Guide</li><li>Soft Copy of Software Package</li></ul>]
+D --> E{Approved}
+E --> |Yes| F[Save/Burn on a CD/DVD<ul><li>Provide four copies</li><li>Store on a Keep Case</li></ul>]
+E --> |No| D
+F --> G[Submit for final checking:<ul><li>CD/DVD Readability</li><li>Final User Guide</li></ul>]
+G --> H{Approved}
+H -->|Yes|I(End)
+H -->|No|G
+```
