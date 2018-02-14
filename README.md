@@ -1,6 +1,3 @@
-<script src="https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js"></script>
-<script>mermaid.initialize({startOnLoad:true});</script>
-
 # Thesis Software Package Guide
 WVSU College of Information and Communications Technology guidelines for thesis software packaging.
 
@@ -53,7 +50,7 @@ A common naming scheme should also be observed. Directory names are **lowercased
 ![case](case.png "case")
 
 * For the complete submission flow, see the guide below:
-<div class="mermaid">
+```mermaid
 graph TD
 A[START] -->|Get Software Approval Form| B[Fill up Approval Form]
 B -->|Get Package Template| C[Modify Package Template]
@@ -65,4 +62,4 @@ F --> G[Submit for final checking:<ul><li>CD/DVD Readability</li><li>Final User 
 G --> H{Approved}
 H -->|Yes|I(End)
 H -->|No|G
-</div>
+```
