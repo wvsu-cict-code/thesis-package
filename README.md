@@ -49,7 +49,8 @@ A common naming scheme should also be observed. Directory names are **lowercased
 
 ![case](case.png "case")
 
-* For the complete submission flow, see the guide below:
+* For the complete submission flow, see the guide below or visit [this link](https://mermaidjs.github.io/mermaid-live-editor/#/view/Z3JhcGggVEQKQVtTVEFSVF0gLS0-fEdldCBTb2Z0d2FyZSBBcHByb3ZhbCBGb3JtfCBCW0ZpbGwgdXAgQXBwcm92YWwgRm9ybV0KQiAtLT58R2V0IFBhY2thZ2UgVGVtcGxhdGV8IENbTW9kaWZ5IFBhY2thZ2UgVGVtcGxhdGVdCkMgLS0-IERbU3VibWl0IFJlcXVpcmVtZW50cyBmb3IgY29tcGxldGVuZXNzIGFuZCBmdW5jdGlvbmFsaXR5IGNoZWNraW5nOjxiciAvPjx1bD48bGk-QXBwcm92YWwgRm9ybTwvbGk-PGxpPkRyYWZ0IFVzZXIgR3VpZGU8L2xpPjxsaT5Tb2Z0IENvcHkgb2YgU29mdHdhcmUgUGFja2FnZTwvbGk-PC91bD5dCkQgLS0-IEV7QXBwcm92ZWR9CkUgLS0-IHxZZXN8IEZbU2F2ZS9CdXJuIG9uIGEgQ0QvRFZEPHVsPjxsaT5Qcm92aWRlIGZvdXIgY29waWVzPC9saT48bGk-U3RvcmUgb24gYSBLZWVwIENhc2U8L2xpPjwvdWw-XQpFIC0tPiB8Tm98IEQKRiAtLT4gR1tTdWJtaXQgZm9yIGZpbmFsIGNoZWNraW5nOjx1bD48bGk-Q0QvRFZEIFJlYWRhYmlsaXR5PC9saT48bGk-RmluYWwgVXNlciBHdWlkZTwvbGk-PC91bD5dCkcgLS0-IEh7QXBwcm92ZWR9CkggLS0-fFllc3xJKEVuZCkKSCAtLT58Tm98Rw):
+
 ```mermaid
 graph TD
 A[START] -->|Get Software Approval Form| B[Fill up Approval Form]
