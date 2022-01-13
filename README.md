@@ -9,7 +9,7 @@ Your thesis software development files are combined into a single source tree. I
 A common naming scheme should also be observed. Directory names are **lowercased** and words are separated by an underscore.
 
 ```python
-# Thesis package source tree
+# Thesis app/game package source tree
 [app_name]/
     src/
     lib/
@@ -19,11 +19,22 @@ A common naming scheme should also be observed. Directory names are **lowercased
     README.md
     DISCLAIMER.md
 ```
+
+```python
+# Animation thesis package source tree
+[animation_title]/
+    raw_files/ 
+    dist/ 
+    doc/
+    README.md
+    DISCLAIMER.md
+```
+
 #### Package Source Tree Description
 
 | Node | Description |
 | ---- | :---- |
-| [app_name] | This is the root folder. Its name quickly identifies your thesis software. Very long directory names are not recommended. |
+| [app_name/game_name] | This is the root folder. Its name quickly identifies your thesis software - please use the ```snake_case```. Very long directory names are not recommended. |
 | src | Contains code to build your thesis software. Includes the frontend and backend(if exists) components. |
 | lib | Contains the third-party libraries used by your thesis software. |
 | config | This is not required but it can contain custom configuration files needed by your software to work (```*.cfg```, ```*.sql```, etc). |
@@ -42,8 +53,24 @@ A common naming scheme should also be observed. Directory names are **lowercased
 * Hi-res icon: 512 x 512, 32-bit PNG (with alpha).
 * Feature Graphic: 1024 w x 500 h, JPG or 24-bit PNG (no alpha) — A showcase graphics for your app. You can check this [link](https://dribbble.com/shots/1711557-Google-Play-Screenshots-Feature-Graphic-and-More) for more samples.
 
-#### Submission
+#### EMC Animation Thesis
+| Node | Description |
+| ---- | :---- |
+| [animation_title] | This is the root folder. Its name quickly identifies your animation - please use the ```snake_case```. |
+| raw_files | Contains all your animation assets (Photoshop, Blender, Flash...etc). |
+| dist | Final animation video in Full-HD 1080p resolution |
+| doc | **Include a DOC/PUB and PDF copy of your thesis software documentation** (ready to publish copy). It is recommended for published materials (story magazine or book) to include the University and College logos. |
+| README.md | Contains a brief introduction about your animation story. |
+| DISCLAIMER.md | Includes the disclaimer documentation of your animation output. |
+
+#### Submission (App/Game)
 * Your thesis source code should be uploaded in GitHub as a private repository.
-* Invite the College App Manager account as an editor of your repository.
+* Invite the College App Manager account as an editor of your repository for review.
 * Await the signed approval sheet given by the review team.
-* Submit the approval sheet to your research coordinator as proof.
+* Submit the approval sheet to your research coordinator as proof of compiance.
+
+#### Submission (Animation)
+* Your animation package should be uploaded in a Google Drive folder using your school account.
+* Invite the College App Manager account as an editor of your Google Drive folder for review.
+* Await the signed approval sheet given by the review team.
+* Submit the approval sheet to your research coordinator as proof of compiance.
