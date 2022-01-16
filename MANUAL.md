@@ -5,7 +5,7 @@ You are required to provide a technical document to assist users on how to use y
 ## User Guide Specifications
 
 ### Inclusions
-* Cover page which includes the University and College logo
+* Cover page which includes the University and [College logo](https://github.com/wvsu-cict-code/cict-logo)
 * Title Page
 * Disclaimer Page
 * Table of Contents
