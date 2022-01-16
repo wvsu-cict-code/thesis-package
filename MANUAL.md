@@ -25,3 +25,4 @@ You are required to provide a technical document to assist users on how to use y
 * Front and back cover printed on glossy or matte special paper
 * Open Sans font family for header and body text, size 10
 * Source Code Pro font family for code snippets, size 10
+* Provide a printed copy along with the data storage (to be approved) where your thesis source is saved.
