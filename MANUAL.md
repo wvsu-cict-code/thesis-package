@@ -21,7 +21,7 @@ You are required to provide a technical document to assist users on how to use y
 * Back Cover
 
 ### Document
-* Letter-sized booklet (8.5"x11.0")
+* Letter-sized booklet type (bifold) (8.5"x11.0")
 * Front and back cover printed on glossy or matte special paper
 * Open Sans font family for header and body text, size 10
 * Source Code Pro font family for code snippets, size 10
