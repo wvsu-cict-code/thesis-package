@@ -2,6 +2,8 @@
 
 You are required to provide a technical document to assist users on how to use your software. This document is also included in your software package to be submitted to the research coordinator.
 
+Please note that you should print your guide/manual and present it on submission.
+
 ## User Guide Specifications
 
 ### Inclusions
