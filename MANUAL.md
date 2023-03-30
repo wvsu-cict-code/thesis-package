@@ -7,7 +7,7 @@ Please note that you should print your guide/manual and present it on submission
 ## User Guide Specifications
 
 ### Inclusions
-* Cover page which includes the University and [College logo](https://github.com/wvsu-cict-code/cict-logo)
+* Cover page which includes the [University](https://drive.google.com/drive/folders/1K1kf8XZQZosPGRWlGj-TFyiDZyY2e2E7?usp=share_link) and [College logo](https://github.com/wvsu-cict-code/cict-logo)
 * Title Page
 * Disclaimer Page
 * Table of Contents
