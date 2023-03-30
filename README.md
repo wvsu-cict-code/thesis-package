@@ -3,4 +3,4 @@ WVSU College of Information and Communications Technology guidelines for thesis 
 
 ***
 
-Please visit the [Wiki Pages](https://github.com/wvsu-cict-code/thesis-package/wiki) for the complete instructions.
+Please visit the [Getting Started](https://github.com/wvsu-cict-code/thesis-package/wiki/Getting-Started#your-thesis-package) page for the complete instructions.
