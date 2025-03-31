@@ -27,4 +27,4 @@ Please note that you should print your guide/manual and present it on submission
 * Front and back cover printed on glossy or matte special paper
 * Open Sans font family for header and body text, size 10
 * Source Code Pro font family for code snippets, size 10
-* Provide a printed copy along with the data storage (to be approved) where your thesis source is saved.
+* Provide a printed copy when submitting your hardbound thesis manuscript.
